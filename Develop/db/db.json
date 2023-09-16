@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"Test Title","text":"Test text"},{"title":"Test 1","text":"Can I save to the DB?","id":"bfe82685-5eb1-40db-8334-4945207cceaf"},{"title":"Test 2","text":"Does this note also have a different uuid?","id":"67b6be81-d67c-4fb0-b365-25232700af39"},{"title":"Test 3 ","text":"Save this note for deletion to test the functionality of the delete request","id":"4f076357-ae10-4f97-a8a7-c95daf282c64"}]
