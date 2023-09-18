@@ -39,4 +39,4 @@ The following images show the web application's appearance and functionality:
 
 ## Deployed Site
 
-Click [here](https://daniellongacre.github.io/Note_Taker_App/) to go to the Weather-Dashboard site.
+Click [here](https://daniellongacre.github.io/Note_Taker_App/) to go to the Note Taker Application site.
